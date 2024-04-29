@@ -1,0 +1,38 @@
+:root {
+  --ff--nav: inter, sans-serif;
+  --fs--nav: 1.25em;
+  --fw--nav: 400;
+  --fcolor--nav: #571a00;
+
+  --ff--nav-link: Poppins, sans-serif;
+  --fs--nav-link: 1.9em;
+  --fw--nav-link: 500;
+  --fcolor--nav-link: #571a00;
+
+  --primary-ff--headings: Poppins, sans-serif;
+  --primary-fs--headings: 4em;
+  --primary-fw--headings: 500;
+  --primary-fcolor--headings: #571a00;
+
+  --secondary-ff--headings: Poppins, sans-serif;
+  --secondary-fs--headings: 4em;
+  --secondary-fw--headings: 600;
+  --secondary-fcolor--headings: #571a00;
+
+  --ff--main-link: Poppins, sans-serif;
+  --fs--main-link: 0.9em;
+  --fw--main-link: 500;
+  --fcolor--main-link: #571a00;
+
+  --hover-: #e5e5e5e8;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Poppins, sans-serif;
+}
